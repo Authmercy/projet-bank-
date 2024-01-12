@@ -1,0 +1,52 @@
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\Projet Gestion de Banque.exe.config
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\Projet Gestion de Banque.exe
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\Projet Gestion de Banque.pdb
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet Gestion de Banque.csproj.AssemblyReference.cache
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet_Gestion_de_Banque.Properties.Resources.resources
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet Gestion de Banque.csproj.GenerateResource.cache
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet Gestion de Banque.csproj.CoreCompileInputs.cache
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet Gestion de Banque.exe
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet Gestion de Banque.pdb
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet_Gestion_de_Banque.Form1.resources
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet_Gestion_de_Banque.Form2.resources
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet_Gestion_de_Banque.Form3.resources
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet_Gestion_de_Banque.Form4.resources
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet_Gestion_de_Banque.Form5.resources
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet_Gestion_de_Banque.Form6.resources
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet_Gestion_de_Banque.UserControl1.resources
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet_Gestion_de_Banque.Form7.resources
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\Google.Protobuf.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\MySql.Data.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.Buffers.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.Memory.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\ZstdSharp.dll
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\Google.Protobuf.pdb
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\Google.Protobuf.xml
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\MySql.Data.xml
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.Buffers.xml
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.Memory.xml
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nahsa\Documents\Projet Gestion de Banque\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet Gestion de Banque.csproj.CopyComplete
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet_Gestion_de_Banque.Splash.resources
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet_Gestion_de_Banque.Form8.resources
+C:\Users\nahsa\Documents\Projet Gestion de Banque\obj\Debug\Projet_Gestion_de_Banque.Form9.resources
